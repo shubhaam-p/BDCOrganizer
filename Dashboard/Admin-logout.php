@@ -1,0 +1,13 @@
+<?php 
+session_start();
+if(isset($_SESSION['adname'])){
+    session_destroy(); 
+    header('Location:Admin-login.php');
+    die();
+}
+else{
+    session_destroy();
+    header('Location:Admin-login.php');
+    die();
+}
+?> 

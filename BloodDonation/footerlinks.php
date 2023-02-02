@@ -1,0 +1,11 @@
+<script src="js/jquery.min.js?key=<?=date('this')?>"></script>
+        <script src="js/bootstrap.min.js?key=<?=date('this')?>"></script>
+        <script src="js/wow.min.js?key=<?=date('this')?>"></script>
+        <script src="js/jquery.backTop.min.js?key=<?=date('this')?>"></script>
+        <script src="js/waypoints.min.js?key=<?=date('this')?>"></script>
+        <script src="js/waypoints-sticky.min.js?key=<?=date('this')?>"></script>
+        <script src="js/owl.carousel.min.js?key=<?=date('this')?>"></script>
+        <script src="js/jquery.stellar.min.js?key=<?=date('this')?>"></script>
+        <script src="js/jquery.counterup.min.js?key=<?=date('this')?>"></script>
+        <script src="js/venobox.min.js?key=<?=date('this')?>"></script>
+        <script src="js/custom-scripts.js?key=<?=date('this')?>"></script>
