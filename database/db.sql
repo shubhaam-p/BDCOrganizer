@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS `admin` (
 -- Dumping data for table `admin`
 --
 
-INSERT INTO `admin` (`ID`, `Name`, `Password`) VALUES
+INSERT INTO `admin` (`ID`, `UserId`, `Password`) VALUES
 (1, 'shubham', 'shubham09');
 
 -- --------------------------------------------------------
